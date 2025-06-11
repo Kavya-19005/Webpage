@@ -1,0 +1,22 @@
+html{
+    background-color: antiquewhite;
+}
+h1 {
+    text-align: center;
+    color: rgb(141, 62, 130);
+    background-color:rgb(174, 149, 188) ;
+    font-family: fantasy; 
+    font-size:300%;
+}
+
+p{
+    text-align: justify;
+    background-color: rgb(181, 149, 190); 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+}
+
+h2{
+    text-align: left; 
+    color: rgb(141, 62, 130); 
+    font-family:fantasy
+}
