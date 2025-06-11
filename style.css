@@ -20,3 +20,10 @@ h2{
     color: rgb(141, 62, 130); 
     font-family:fantasy
 }
+button{
+    width: 80%; 
+    height: 20%; 
+    color: #ffffff; 
+    background-color: rgb(216, 131, 216); 
+    margin: 4px 2px;
+}
