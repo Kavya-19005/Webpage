@@ -25,5 +25,26 @@ button{
     height: 20%; 
     color: #ffffff; 
     background-color: rgb(216, 131, 216); 
-    margin: 4px 2px;
+    margin: 30px 15px;
+    padding: 20px;
+}
+.nav-bar{
+    width: 100%;
+    margin :0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(210, 179, 228);
+    /*padding: 14px 16px;*/
+    text-align: left;
+    float: left;
+    font-size: large;
+}
+.nav-bar a {
+    color: rgb(141, 62, 130);
+    text-decoration: none;
+    /*padding: 14px 16px;*/
+}
+.nav-bar a:hover {
+    background-color: rgb(201, 166, 201);
+    color: white;
 }
